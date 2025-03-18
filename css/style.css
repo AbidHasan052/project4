@@ -1,0 +1,13 @@
+.sample{
+	color:blue;
+	background-color: yellow;
+	
+}
+.border{
+	border: 6px solid purple;
+}
+#info{
+	font-size: 45px;
+	color: maroon;
+	background-color: pink;
+}
